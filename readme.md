@@ -19,7 +19,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
 - [pigment](https://github.com/satya164/pigment) - Color information, conversion and manipulation library
 - [GradStop.js](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
-- [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
+- [Colorable](https://colorable.jxnblk.com/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor](https://github.com/krasimir/coloor) - Image preloading utility.
 - [Color Thief](https://github.com/lokesh/color-thief) - Grab color palette from an image.
